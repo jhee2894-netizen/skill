@@ -1,4 +1,4 @@
-# claude-skills
+# skill
 
 jhee2894-netizen의 Claude 스킬 마켓플레이스.
 
@@ -13,7 +13,7 @@ jhee2894-netizen의 Claude 스킬 마켓플레이스.
 Claude Code:
 
 ```
-/plugin marketplace add jhee2894-netizen/claude-skills
+/plugin marketplace add jhee2894-netizen/skill
 /plugin install weekly-sales-report@jhee2894-skills
 ```
 
