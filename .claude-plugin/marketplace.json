@@ -1,11 +1,19 @@
 {
   "name": "jhee2894-skills",
-  "owner": { "name": "jhee2894-netizen" },
+  "owner": {
+    "name": "jhee2894-netizen"
+  },
   "plugins": [
     {
       "name": "weekly-sales-report",
       "source": "./plugins/weekly-sales-report",
       "description": "구글 시트 판매 데이터로 지난주(월~일) 주간 매출 리포트를 만들어 슬랙 채널 스레드에 올린다",
+      "version": "1.0.0"
+    },
+    {
+      "name": "card-news-generator-v2",
+      "source": "./plugins/card-news-generator-v2",
+      "description": "주제·배경색(선택: 배경 이미지)으로 600x600 인스타그램형 카드뉴스 시리즈를 만든다 (원작: bear2u/my-skills, MIT)",
       "version": "1.0.0"
     }
   ]
